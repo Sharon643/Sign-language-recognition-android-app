@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044996524402",
+    "project_id": "sign-sense-b2f37",
+    "storage_bucket": "sign-sense-b2f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044996524402:android:e4135c1091b73d533a35eb",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_IMlX9XS9XfVBLJFxhdKG8h-jW2y0D8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
